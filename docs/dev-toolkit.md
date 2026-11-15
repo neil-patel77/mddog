@@ -57,4 +57,4 @@ In the pane you can't click links or select text, and Claude Code shows images o
 
 ## Homelab note
 
-The dev-AI toolset runs on Linux: the herdr container, plus the Zima and Legion hosts. mddog is macOS-only, so it serves the macOS workstation only — a known platform gap, not a blocker. On the Linux hosts, runbooks and docs are read with the usual terminal viewers; on the workstation the same files open as rendered pages.
+The dev-AI toolset runs on Linux: the Linux homelab hosts and their agent containers. mddog is macOS-only, so it serves the macOS workstation only — a known platform gap, not a blocker. On the Linux hosts, runbooks and docs are read with the usual terminal viewers; on the workstation the same files open as rendered pages.
